@@ -1,0 +1,7 @@
+Creating an Express server:
+1.Create directory
+2.Create index.js file
+4.Initialise NPM
+5.Install Express Package
+6.Write server application in index.js
+7.Start server
